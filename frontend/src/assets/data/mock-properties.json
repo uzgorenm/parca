@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "address": "84230 Tyler Ln",
+        "price": 450000,
+        "lat": 34.0522,
+        "lng": -118.2437,
+        "available": "10%",
+        "image": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?q=80&w=2070&auto=format&fit=crop",
+        "description": "Modern property scenario in the heart of the city, modeled with premium finishes and a projected net rental return.",
+        "yield": "4.2%",
+        "appreciation": "+12% YoY"
+    },
+    {
+        "id": "2",
+        "address": "123 Ocean View",
+        "price": 1200000,
+        "lat": 34.0195,
+        "lng": -118.4912,
+        "available": "5%",
+        "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=2070&auto=format&fit=crop",
+        "description": "Stunning oceanfront villa. Prime location with luxury amenities and high appreciation history.",
+        "yield": "3.8%",
+        "appreciation": "+15% YoY"
+    },
+    {
+        "id": "3",
+        "address": "555 Mountain Rd",
+        "price": 890000,
+        "lat": 34.1033,
+        "lng": -118.4119,
+        "available": "12%",
+        "image": "https://images.unsplash.com/photo-1430285561322-7808604715df?q=80&w=2070&auto=format&fit=crop",
+        "description": "Quiet mountain retreat scenario modeled with steady long-term rental occupancy.",
+        "yield": "5.1%",
+        "appreciation": "+8% YoY"
+    }
+]
