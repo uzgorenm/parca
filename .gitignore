@@ -1,0 +1,15 @@
+.DS_Store
+.automation-worktree/
+.claude/
+__pycache__/
+*.py[cod]
+.venv/
+node_modules/
+.env
+.env.*
+!.env.example
+.expo/
+dist/
+web-build/
+coverage/
+*.tsbuildinfo
